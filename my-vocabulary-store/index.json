@@ -1,27 +1,85 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2024-01-20",
   "categories": [
     {
       "id": "toeic",
       "name": "TOEIC",
       "icon": "📘",
-      "description": "토익 시험 대비 단어장",
       "vocabularies": [
         {
-          "id": "toeic_basic_250",
-          "name": "토익 초급 250",
-          "description": "토익 시험 준비를 위한 필수 초급 단어 250개",
-          "wordCount": 250,
+          "id": "toeic_basic_1283",
+          "name": "TOEIC 기본 1283단어장",
+          "description": "TOEIC 시험 준비를 위한 필수 기본단어 1283개",
+          "wordCount": 1283,
+          "difficulty": "중급",
+          "version": "1.0",
+          "url": "vocabularies/toeic_basic_1283.json"
+        }
+      ]
+    },
+    {
+      "id": "elementary_words_832",
+      "name": "초등",
+      "icon": "🎒",
+      "vocabularies": [
+        {
+          "id": "elementary_words_832",
+          "name": "초등 영단어",
+          "description": "초등학생을 위한 기초 영단어",
+          "wordCount": 832,
           "difficulty": "초급",
           "version": "1.0",
-          "tags": ["토익", "초급", "필수"],
-          "url": "vocabularies/toeic_basic_250.json",
-          "fileSize": "약 150KB",
-          "createdDate": "2024-01-20",
-          "lastModified": "2024-01-20"
+          "url": "vocabularies/vocabularies/elementary_words_832.json"
+        }
+      ]
+    },
+    {
+      "id": "middle_school_1190",
+      "name": "중학",
+      "icon": "📚",
+      "vocabularies": [
+        {
+          "id": "middle_school_1190",
+          "name": "중학 영단어",
+          "description": "중학교 교육과정 필수 영단어",
+          "wordCount": 1190,
+          "difficulty": "중급",
+          "version": "1.0",
+          "url": "vocabularies/vocabularies/middle_school_1190.json"
+        }
+      ]
+    },
+    {
+      "id": "suneung_words_2000",
+      "name": "수능",
+      "icon": "🎓",
+      "vocabularies": [
+        {
+          "id": "suneung_words_2000",
+          "name": "수능 핵심 영단어",
+          "description": "대학수학능력시험 대비 핵심 영단어",
+          "wordCount": 2000,
+          "difficulty": "고급",
+          "version": "1.0",
+          "url": "vocabularies/vocabularies/suneung_words_2000.json"
+        }
+      ]
+    },
+    {
+      "id": "travel_words_300",
+      "name": "여행",
+      "icon": "💬",
+      "vocabularies": [
+        {
+          "id": "travel_words_300",
+          "name": "여행용 영단어",
+          "description": "여행시 필수 영단어",
+          "wordCount": 300,
+          "difficulty": "초급",
+          "version": "1.0",
+          "url": "vocabularies/vocabularies/travel_words_300.json"
         }
       ]
     }
-  ]
+  ],
+  "lastUpdated": "2025-06-24"
 }
