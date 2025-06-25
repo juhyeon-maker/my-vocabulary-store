@@ -1,1 +1,0 @@
-# my-vocabulary-store
