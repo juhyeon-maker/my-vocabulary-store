@@ -41,6 +41,16 @@
           "difficulty": "초급",
           "version": "1.0",
           "url": "vocabularies/middle_school_1190.json"
+        },
+        {
+          "id": "high_school_1990",
+          "name": "수능 영단어",
+          "description": "수능 공부를 위한 고급 영단어 1990",
+          "wordCount": 1990,
+          "price": 100,
+          "difficulty": "고급",
+          "version": "1.0",
+          "url": "vocabularies/high_school_1990.json"
         }
       ]
     },
