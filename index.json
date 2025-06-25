@@ -25,7 +25,7 @@
           "id": "elementary_words_830",
           "name": "초등 영단어",
           "description": "초등학생을 위한 기초 영단어 830개",
-          "wordCount": 832,
+          "wordCount": 830,
           "difficulty": "입문",
           "version": "1.0",
           "url": "vocabularies/elementary_words_832.json"
