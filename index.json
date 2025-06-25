@@ -1,4 +1,4 @@
-{
+{ 
   "categories": [
     {
       "id": "toeic",
@@ -24,7 +24,7 @@
         {
           "id": "elementary_words_832",
           "name": "초등 영단어",
-          "description": "초등학생을 위한 기초 영단어 832개",
+          "description": "초등학생을 위한 기초 영단어1 832개",
           "wordCount": 832,
           "difficulty": "입문",
           "version": "1.0",
