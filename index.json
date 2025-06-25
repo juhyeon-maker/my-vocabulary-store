@@ -12,6 +12,7 @@
           "wordCount": 1283,
           "difficulty": "중급",
           "version": "1.0",
+          "price": 100,
           "url": "vocabularies/toeic_basic_1283.json"
         }
       ]
@@ -26,6 +27,7 @@
           "name": "초등 영단어",
           "description": "초등학생을 위한 기초 영단어 830개",
           "wordCount": 830,
+          "price": 50,
           "difficulty": "입문",
           "version": "1.0",
           "url": "vocabularies/elementary_words_830.json"
@@ -35,6 +37,7 @@
           "name": "중학 영단어",
           "description": "중학교 교육과정 필수 영단어 1190개",
           "wordCount": 1190,
+          "price": 50,
           "difficulty": "초급",
           "version": "1.0",
           "url": "vocabularies/middle_school_1190.json"
@@ -52,6 +55,7 @@
           "description": "여행에서 꼭 필요한 영단어 300개",
           "wordCount": 300,
           "difficulty": "초급",
+          "price": 50,
           "version": "1.0",
           "url": "vocabularies/travel_words_300.json"
         }
