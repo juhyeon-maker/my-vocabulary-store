@@ -56,8 +56,8 @@
     },
     {
       "id": "hobby",
-      "name": "취미",
-      "icon": "🎨",
+      "name": "기타",
+      "icon": "📒",
       "vocabularies": [
         {
           "id": "Hebrew_basic_210",
