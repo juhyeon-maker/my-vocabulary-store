@@ -18,23 +18,6 @@
       ]
     },
     {
-      "id": "hobby",
-      "name": "HOBBY",
-      "icon": "📚",
-      "vocabularies": [
-        {
-          "id": "Hebrew_basic_210",
-          "name": "목회를 위한 히브리어 기본 210단어",
-          "description": "성경에 자주 등장하는 히브리어와 성경예문",
-          "wordCount": 210,
-          "difficulty": "초급",
-          "version": "1.0",
-          "price": 100,
-          "url": "vocabularies/Hebrew_basic_210.json"
-        }
-      ]
-    },
-    {
       "id": "school",
       "name": "학교",
       "icon": "🏫",
@@ -76,6 +59,16 @@
       "name": "취미",
       "icon": "🎨",
       "vocabularies": [
+        {
+          "id": "Hebrew_basic_210",
+          "name": "목회를 위한 히브리어 기본 210단어",
+          "description": "성경에 자주 등장하는 히브리어와 성경예문",
+          "wordCount": 210,
+          "difficulty": "초급",
+          "version": "1.0",
+          "price": 30,
+          "url": "vocabularies/Hebrew_basic_210.json"
+        },
         {
           "id": "travel_words_300",
           "name": "여행 영단어",
