@@ -61,8 +61,8 @@
       "vocabularies": [
         {
           "id": "Hebrew_basic_210",
-          "name": "히브리어 기본 210단어",
-          "description": "성경에 자주 등장하는 히브리어와 성경예문",
+          "name": "히브리어 기본단어",
+          "description": "성경에 자주 등장하는 히브리어와 성경예문 210개",
           "wordCount": 210,
           "difficulty": "초급",
           "version": "1.0",
