@@ -1,0 +1,1481 @@
+{
+  "id": "Hebrew_basic_210",
+  "name": "목회를 위한 히브리어 기본 210단어",
+  "version": "1.0",
+  "description": "성경에 자주 등장하는 히브리어와 성경예문",
+  "category": "Hobby",
+  "difficulty": "초급",
+  "wordCount": 210,
+  "words": [
+    {
+      "word": "אָב",
+      "pronunciation": "아브",
+      "meaning": "[명]아버지",
+      "example": "כַּבֵּד אֶת־אָבִיךָ וְאֶת־אִמֶּךָ",
+      "exampleMeaning": "네 아버지와 어머니를 공경하라 (출 20:12)"
+    },
+    {
+      "word": "אָדָם",
+      "pronunciation": "아담",
+      "meaning": "[명]사람, 인간",
+      "example": "וַיִּבְרָא אֱלֹהִים אֶת־הָאָדָם בְּצַלְמוֹ",
+      "exampleMeaning": "하나님이 자기 형상대로 사람을 창조하시되 (창 1:27)"
+    },
+    {
+      "word": "אֲדֹנָי",
+      "pronunciation": "아도나이",
+      "meaning": "[명]주님",
+      "example": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+      "exampleMeaning": "이스라엘아 들으라 우리 하나님 여호와는 오직 유일한 여호와이시니 (신 6:4)"
+    },
+    {
+      "word": "אָהַב",
+      "pronunciation": "아하브",
+      "meaning": "[동]사랑하다",
+      "example": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ",
+      "exampleMeaning": "너는 마음을 다하여 네 하나님 여호와를 사랑하라 (신 6:5)"
+    },
+    {
+      "word": "אוֹר",
+      "pronunciation": "오르",
+      "meaning": "[명]빛",
+      "example": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר",
+      "exampleMeaning": "하나님이 이르시되 빛이 있으라 하시니 빛이 있었고 (창 1:3)"
+    },
+    {
+      "word": "אֱלֹהִים",
+      "pronunciation": "엘로힘",
+      "meaning": "[명]하나님",
+      "example": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ",
+      "exampleMeaning": "태초에 하나님이 천지를 창조하시니라 (창 1:1)"
+    },
+    {
+      "word": "אָמַר",
+      "pronunciation": "아마르",
+      "meaning": "[동]말하다",
+      "example": "וַיֹּאמֶר אֱלֹהִים נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ",
+      "exampleMeaning": "하나님이 이르시되 우리의 형상을 따라 사람을 만들자 (창 1:26)"
+    },
+    {
+      "word": "אֶרֶץ",
+      "pronunciation": "에레츠",
+      "meaning": "[명]땅, 지구",
+      "example": "הַשָּׁמַיִם שָׁמַיִם לַיהוָה וְהָאָרֶץ נָתַן לִבְנֵי־אָדָם",
+      "exampleMeaning": "하늘은 여호와의 하늘이라도 땅은 사람에게 주셨도다 (시 115:16)"
+    },
+    {
+      "word": "בֵּן",
+      "pronunciation": "벤",
+      "meaning": "[명]아들",
+      "example": "בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ",
+      "exampleMeaning": "너는 내 아들이라 오늘 내가 너를 낳았도다 (시 2:7)"
+    },
+    {
+      "word": "בָּרָא",
+      "pronunciation": "바라",
+      "meaning": "[동]창조하다",
+      "example": "בְּרֵאשִׁית בָּרָא אֱלֹהִים",
+      "exampleMeaning": "태초에 하나님이 창조하시니라 (창 1:1)"
+    },
+    {
+      "word": "בְּרִית",
+      "pronunciation": "베리트",
+      "meaning": "[명]언약",
+      "example": "וַהֲקִמֹתִי אֶת־בְּרִיתִי בֵּינִי וּבֵינֶךָ",
+      "exampleMeaning": "내가 나와 너 사이에 내 언약을 세우리니 (창 17:7)"
+    },
+    {
+      "word": "בָּרַךְ",
+      "pronunciation": "바라크",
+      "meaning": "[동]축복하다",
+      "example": "וַיְבָרֶךְ אֹתָם אֱלֹהִים",
+      "exampleMeaning": "하나님이 그들에게 복을 주시며 (창 1:28)"
+    },
+    {
+      "word": "גָּדוֹל",
+      "pronunciation": "가돌",
+      "meaning": "[형]큰",
+      "example": "כִּי־גָדוֹל יְהוָה וּמְהֻלָּל מְאֹד",
+      "exampleMeaning": "여호와는 위대하시니 지극히 찬양할 것이요 (시 96:4)"
+    },
+    {
+      "word": "דָּבָר",
+      "pronunciation": "다바르",
+      "meaning": "[명]말씀",
+      "example": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר",
+      "exampleMeaning": "여호와의 말씀이 내게 임하여 이르시되 (렘 1:4)"
+    },
+    {
+      "word": "דָּוִד",
+      "pronunciation": "다비드",
+      "meaning": "[명]다윗",
+      "example": "וַיֹּאמֶר יְהוָה קוּם מְשָׁחֵהוּ כִּי־זֶה הוּא",
+      "exampleMeaning": "여호와께서 이르시되 일어나 그에게 기름을 부으라 이가 그니라 (삼상 16:12)"
+    },
+    {
+      "word": "דֶּרֶךְ",
+      "pronunciation": "데레크",
+      "meaning": "[명]길, 도",
+      "example": "הוֹדִיעֵנִי יְהוָה דַּרְכֶּךָ",
+      "exampleMeaning": "여호와여 주의 도를 내게 보이시고 (시 25:4)"
+    },
+    {
+      "word": "הָלַךְ",
+      "pronunciation": "할라크",
+      "meaning": "[동]가다, 걷다",
+      "example": "וְהִתְהַלַּכְתִּי בְּתוֹכְכֶם",
+      "exampleMeaning": "나는 너희 중에 행하여 (레 26:12)"
+    },
+    {
+      "word": "הָיָה",
+      "pronunciation": "하야",
+      "meaning": "[동]있다, 되다",
+      "example": "וַיְהִי־אוֹר",
+      "exampleMeaning": "빛이 있으라 (창 1:3)"
+    },
+    {
+      "word": "זָכַר",
+      "pronunciation": "자카르",
+      "meaning": "[동]기억하다",
+      "example": "זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ",
+      "exampleMeaning": "안식일을 기억하여 거룩하게 지키라 (출 20:8)"
+    },
+    {
+      "word": "חַי",
+      "pronunciation": "하이",
+      "meaning": "[형]살아있는",
+      "example": "חַי־יְהוָה",
+      "exampleMeaning": "여호와께서 살아계심을 두고 (삼상 14:39)"
+    },
+    {
+      "word": "חֶסֶד",
+      "pronunciation": "헤세드",
+      "meaning": "[명]인자, 은혜",
+      "example": "כִּי־טוֹב יְהוָה לְעוֹלָם חַסְדּוֹ",
+      "exampleMeaning": "여호와는 선하시니 그의 인자하심이 영원하고 (시 100:5)"
+    },
+    {
+      "word": "חָטָא",
+      "pronunciation": "하타",
+      "meaning": "[동]죄를 짓다",
+      "example": "כִּי כֻלָּם חָטָאוּ",
+      "exampleMeaning": "모든 사람이 죄를 범하였으매 (롬 3:23 참조)"
+    },
+    {
+      "word": "טוֹב",
+      "pronunciation": "토브",
+      "meaning": "[형]좋은",
+      "example": "וַיַּרְא אֱלֹהִים כִּי־טוֹב",
+      "exampleMeaning": "하나님이 보시기에 좋았더라 (창 1:10)"
+    },
+    {
+      "word": "יָד",
+      "pronunciation": "야드",
+      "meaning": "[명]손",
+      "example": "הֲלוֹא יָדְךָ עָשְׂתָה כָל־זֹאת",
+      "exampleMeaning": "이 모든 것을 주의 손이 지으신 것이 아니니이까 (사 66:2)"
+    },
+    {
+      "word": "יְהוָה",
+      "pronunciation": "여호와",
+      "meaning": "[명]여호와",
+      "example": "אֲנִי יְהוָה אֱלֹהֶיךָ",
+      "exampleMeaning": "나는 네 하나님 여호와이니라 (출 20:2)"
+    },
+    {
+      "word": "יוֹם",
+      "pronunciation": "욤",
+      "meaning": "[명]날",
+      "example": "וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם",
+      "exampleMeaning": "하나님이 빛을 낮이라 부르시고 (창 1:5)"
+    },
+    {
+      "word": "יָלַד",
+      "pronunciation": "얄라드",
+      "meaning": "[동]낳다",
+      "example": "וְהִיא יֹלֶדֶת בֵּן",
+      "exampleMeaning": "그가 아들을 낳으리니 (마 1:21 참조)"
+    },
+    {
+      "word": "יָרֵא",
+      "pronunciation": "야레",
+      "meaning": "[동]두려워하다",
+      "example": "אַל־תִּירָא כִּי אִתְּךָ־אָנִי",
+      "exampleMeaning": "두려워하지 말라 내가 너와 함께 함이라 (사 41:10)"
+    },
+    {
+      "word": "יָשַׁב",
+      "pronunciation": "야샤브",
+      "meaning": "[동]앉다, 거하다",
+      "example": "יֹשֵׁב בְּסֵתֶר עֶלְיוֹן",
+      "exampleMeaning": "지존자의 은밀한 곳에 거주하며 (시 91:1)"
+    },
+    {
+      "word": "יָשַׁע",
+      "pronunciation": "야샤",
+      "meaning": "[동]구원하다",
+      "example": "הוֹשִׁיעָה יְהוָה",
+      "exampleMeaning": "여호와여 구원하소서 (시 118:25)"
+    },
+    {
+      "word": "כֹּהֵן",
+      "pronunciation": "코헨",
+      "meaning": "[명]제사장",
+      "example": "וְאַתָּה תִּהְיֶה־לִּי מַמְלֶכֶת כֹּהֲנִים",
+      "exampleMeaning": "너희가 내게 대하여 제사장 나라가 되며 (출 19:6)"
+    },
+    {
+      "word": "כָּל",
+      "pronunciation": "콜",
+      "meaning": "[형]모든",
+      "example": "בְּכָל־לְבָבְךָ",
+      "exampleMeaning": "네 마음을 다하여 (신 6:5)"
+    },
+    {
+      "word": "לֵב",
+      "pronunciation": "레브",
+      "meaning": "[명]마음",
+      "example": "וְנָתַתִּי לָכֶם לֵב חָדָשׁ",
+      "exampleMeaning": "또 새 마음을 너희에게 주되 (겔 36:26)"
+    },
+    {
+      "word": "לָקַח",
+      "pronunciation": "라카흐",
+      "meaning": "[동]취하다",
+      "example": "וַיִּקַּח יְהוָה אֱלֹהִים אֶת־הָאָדָם",
+      "exampleMeaning": "여호와 하나님이 그 사람을 이끌어 (창 2:15)"
+    },
+    {
+      "word": "מֶלֶךְ",
+      "pronunciation": "멜레크",
+      "meaning": "[명]왕",
+      "example": "יְהוָה מֶלֶךְ עוֹלָם וָעֶד",
+      "exampleMeaning": "여호와께서 영원무궁하도록 다스리시도다 (출 15:18)"
+    },
+    {
+      "word": "מָשִׁיחַ",
+      "pronunciation": "마시아흐",
+      "meaning": "[명]메시아",
+      "example": "מָצָאתִי דָוִד עַבְדִּי בְּשֶׁמֶן קָדְשִׁי מְשַׁחְתִּיו",
+      "exampleMeaning": "내가 내 종 다윗을 찾아내어 나의 거룩한 기름을 그에게 부었도다 (시 89:20)"
+    },
+    {
+      "word": "מִשְׁפָּט",
+      "pronunciation": "미쉬파트",
+      "meaning": "[명]심판, 공의",
+      "example": "כִּי יְהוָה אֱלֹהֵי מִשְׁפָּט",
+      "exampleMeaning": "대저 여호와는 정의의 하나님이심이라 (사 30:18)"
+    },
+    {
+      "word": "נָבִיא",
+      "pronunciation": "나비",
+      "meaning": "[명]선지자",
+      "example": "נָבִיא אָקִים לָהֶם מִקֶּרֶב אֲחֵיהֶם",
+      "exampleMeaning": "내가 그들의 형제 중에서 한 선지자를 세워 (신 18:18)"
+    },
+    {
+      "word": "נֶפֶשׁ",
+      "pronunciation": "네페쉬",
+      "meaning": "[명]영혼, 생명",
+      "example": "וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה",
+      "exampleMeaning": "사람이 생령이 되니라 (창 2:7)"
+    },
+    {
+      "word": "נָתַן",
+      "pronunciation": "나탄",
+      "meaning": "[동]주다",
+      "example": "נָתַן לָנוּ אֶת־בְּנוֹ",
+      "exampleMeaning": "그 아들을 우리에게 주셨으니 (요 3:16 참조)"
+    },
+    {
+      "word": "סֵפֶר",
+      "pronunciation": "세페르",
+      "meaning": "[명]책",
+      "example": "זֶה סֵפֶר תּוֹלְדֹת אָדָם",
+      "exampleMeaning": "이것은 아담의 계보를 적은 책이니라 (창 5:1)"
+    },
+    {
+      "word": "עָבַד",
+      "pronunciation": "아바드",
+      "meaning": "[동]섬기다",
+      "example": "וַעַבְדֶּם שָׁם אֱלֹהִים אֲחֵרִים",
+      "exampleMeaning": "거기서 너희가 다른 신들을 섬기리니 (신 28:64)"
+    },
+    {
+      "word": "עוֹלָם",
+      "pronunciation": "올람",
+      "meaning": "[명]영원",
+      "example": "מֵעוֹלָם וְעַד־עוֹלָם אַתָּה אֵל",
+      "exampleMeaning": "영원부터 영원까지 주는 하나님이시니이다 (시 90:2)"
+    },
+    {
+      "word": "עַיִן",
+      "pronunciation": "아인",
+      "meaning": "[명]눈",
+      "example": "עֵינֵי יְהוָה אֶל־צַדִּיקִים",
+      "exampleMeaning": "여호와의 눈은 의인을 향하시고 (시 34:15)"
+    },
+    {
+      "word": "עַם",
+      "pronunciation": "암",
+      "meaning": "[명]백성",
+      "example": "וִהְיִיתֶם לִי לְעָם",
+      "exampleMeaning": "너희는 내 백성이 되고 (렘 30:22)"
+    },
+    {
+      "word": "עָנָה",
+      "pronunciation": "아나",
+      "meaning": "[동]대답하다",
+      "example": "וַיַּעַן אֱלֹהִים אֶת־מֹשֶׁה",
+      "exampleMeaning": "하나님이 모세에게 대답하여 (출 3:14)"
+    },
+    {
+      "word": "עָשָׂה",
+      "pronunciation": "아사",
+      "meaning": "[동]만들다, 행하다",
+      "example": "וַיַּעַשׂ אֱלֹהִים אֶת־הָרָקִיעַ",
+      "exampleMeaning": "하나님이 궁창을 만드사 (창 1:7)"
+    },
+    {
+      "word": "פָּנִים",
+      "pronunciation": "파님",
+      "meaning": "[명]얼굴",
+      "example": "פָּנִים אֶל־פָּנִים",
+      "exampleMeaning": "대면하여 (신 34:10)"
+    },
+    {
+      "word": "צֶדֶק",
+      "pronunciation": "체데크",
+      "meaning": "[명]의, 공의",
+      "example": "צֶדֶק צֶדֶק תִּרְדֹּף",
+      "exampleMeaning": "의와 의만을 따르라 (신 16:20)"
+    },
+    {
+      "word": "קָדוֹשׁ",
+      "pronunciation": "카도쉬",
+      "meaning": "[형]거룩한",
+      "example": "קְדֹשִׁים תִּהְיוּ כִּי קָדוֹשׁ אֲנִי",
+      "exampleMeaning": "너희는 거룩하라 이는 나 여호와가 거룩함이니라 (레 19:2)"
+    },
+    {
+      "word": "קוֹל",
+      "pronunciation": "콜",
+      "meaning": "[명]소리, 음성",
+      "example": "וַיִּשְׁמְעוּ אֶת־קוֹל יְהוָה אֱלֹהִים",
+      "exampleMeaning": "그들이 여호와 하나님의 소리를 듣고 (창 3:8)"
+    },
+    {
+      "word": "קָרָא",
+      "pronunciation": "카라",
+      "meaning": "[동]부르다",
+      "example": "וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם",
+      "exampleMeaning": "하나님이 빛을 낮이라 부르시고 (창 1:5)"
+    },
+    {
+      "word": "רָאָה",
+      "pronunciation": "라아",
+      "meaning": "[동]보다",
+      "example": "וַיַּרְא אֱלֹהִים אֶת־הָאוֹר כִּי־טוֹב",
+      "exampleMeaning": "하나님이 그 빛이 좋은 것을 보시고 (창 1:4)"
+    },
+    {
+      "word": "רוּחַ",
+      "pronunciation": "루아흐",
+      "meaning": "[명]영, 바람",
+      "example": "וְרוּחַ אֱלֹהִים מְרַחֶפֶת",
+      "exampleMeaning": "하나님의 영은 수면 위에 운행하시니라 (창 1:2)"
+    },
+    {
+      "word": "שָׁלוֹם",
+      "pronunciation": "샬롬",
+      "meaning": "[명]평화",
+      "example": "שָׁלוֹם שָׁלוֹם לָרָחוֹק וְלַקָּרוֹב",
+      "exampleMeaning": "먼 데 있는 자와 가까운 데 있는 자에게 평강이 있을지어다 (사 57:19)"
+    },
+    {
+      "word": "שָׁמַיִם",
+      "pronunciation": "샤마임",
+      "meaning": "[명]하늘",
+      "example": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם",
+      "exampleMeaning": "태초에 하나님이 하늘을 창조하시니라 (창 1:1)"
+    },
+    {
+      "word": "שָׁמַע",
+      "pronunciation": "샤마",
+      "meaning": "[동]듣다",
+      "example": "שְׁמַע יִשְׂרָאֵל",
+      "exampleMeaning": "이스라엘아 들으라 (신 6:4)"
+    },
+    {
+      "word": "שֵׁם",
+      "pronunciation": "셈",
+      "meaning": "[명]이름",
+      "example": "וַיִּקְרָא אֶת־שְׁמוֹ יֵשׁוּעַ",
+      "exampleMeaning": "그 이름을 예수라 하라 (마 1:21 참조)"
+    },
+    {
+      "word": "תּוֹרָה",
+      "pronunciation": "토라",
+      "meaning": "[명]율법",
+      "example": "זֹאת הַתּוֹרָה אֲשֶׁר־שָׂם מֹשֶׁה",
+      "exampleMeaning": "모세가 이스라엘 자손 앞에 세운 율법이 이러하니라 (신 4:44)"
+    },
+    {
+      "word": "אַהֲבָה",
+      "pronunciation": "아하바",
+      "meaning": "[명]사랑",
+      "example": "אַהֲבָה עַזָּה כַמָּוֶת",
+      "exampleMeaning": "사랑은 죽음 같이 강하고 (아 8:6)"
+    },
+    {
+      "word": "אָמֵן",
+      "pronunciation": "아멘",
+      "meaning": "[감]아멘",
+      "example": "וְאָמַר כָּל־הָעָם אָמֵן",
+      "exampleMeaning": "모든 백성은 아멘 하라 (신 27:26)"
+    },
+    {
+      "word": "אֱמֶת",
+      "pronunciation": "에메트",
+      "meaning": "[명]진리",
+      "example": "וְהָאֱמֶת וְהַשָּׁלוֹם אֱהָבוּ",
+      "exampleMeaning": "진실과 화평을 사랑하라 (슥 8:19)"
+    },
+    {
+      "word": "אָנֹכִי",
+      "pronunciation": "아노키",
+      "meaning": "[대]나",
+      "example": "אָנֹכִי יְהוָה אֱלֹהֶיךָ",
+      "exampleMeaning": "나는 네 하나님 여호와이니라 (출 20:2)"
+    },
+    {
+      "word": "אַתָּה",
+      "pronunciation": "앝타",
+      "meaning": "[대]당신, 너",
+      "example": "אַתָּה־הוּא יְהוָה לְבַדֶּךָ",
+      "exampleMeaning": "주는 여호와시라 주만 계시고 (느 9:6)"
+    },
+    {
+      "word": "בָּשָׂר",
+      "pronunciation": "바사르",
+      "meaning": "[명]육체",
+      "example": "וְהָיוּ לְבָשָׂר אֶחָד",
+      "exampleMeaning": "둘이 한 몸을 이룰지로다 (창 2:24)"
+    },
+    {
+      "word": "בַּיִת",
+      "pronunciation": "바이트",
+      "meaning": "[명]집",
+      "example": "בֵּית יְהוָה",
+      "exampleMeaning": "여호와의 집 (시 23:6)"
+    },
+    {
+      "word": "גּוֹי",
+      "pronunciation": "고이",
+      "meaning": "[명]민족, 이방인",
+      "example": "וְנִבְרְכוּ בְךָ כֹּל גּוֹיֵי הָאָרֶץ",
+      "exampleMeaning": "땅의 모든 민족이 너로 말미암아 복을 얻을 것이라 (창 12:3)"
+    },
+    {
+      "word": "דַּעַת",
+      "pronunciation": "다아트",
+      "meaning": "[명]지식",
+      "example": "יִרְאַת יְהוָה רֵאשִׁית דָּעַת",
+      "exampleMeaning": "여호와를 경외하는 것이 지식의 근본이거늘 (잠 1:7)"
+    },
+    {
+      "word": "הַלְלוּיָהּ",
+      "pronunciation": "할렐루야",
+      "meaning": "[감]할렐루야",
+      "example": "הַלְלוּיָהּ הַלְלוּ אֶת־יְהוָה מִן־הַשָּׁמַיִם",
+      "exampleMeaning": "할렐루야 하늘에서 여호와를 찬양하며 (시 148:1)"
+    },
+    {
+      "word": "הוֹשִׁיעַ",
+      "pronunciation": "호시아",
+      "meaning": "[동]구원하다",
+      "example": "הוֹשִׁיעָה נָּא",
+      "exampleMeaning": "이제 구원하소서 (시 118:25)"
+    },
+    {
+      "word": "זֶרַע",
+      "pronunciation": "제라",
+      "meaning": "[명]씨, 후손",
+      "example": "וּבְזַרְעֲךָ יִתְבָּרְכוּ כָּל־גּוֹיֵי הָאָרֶץ",
+      "exampleMeaning": "네 씨로 말미암아 천하 만민이 복을 받으리니 (창 22:18)"
+    },
+    {
+      "word": "חָכְמָה",
+      "pronunciation": "호크마",
+      "meaning": "[명]지혜",
+      "example": "רֵאשִׁית חָכְמָה יִרְאַת יְהוָה",
+      "exampleMeaning": "여호와를 경외하는 것이 지혜의 근본이요 (시 111:10)"
+    },
+    {
+      "word": "יְשׁוּעָה",
+      "pronunciation": "예슈아",
+      "meaning": "[명]구원",
+      "example": "יְשׁוּעָתִי מֵאֵת יְהוָה",
+      "exampleMeaning": "나의 구원이 여호와께로부터 오는도다 (시 3:8)"
+    },
+    {
+      "word": "כָּבוֹד",
+      "pronunciation": "카보드",
+      "meaning": "[명]영광",
+      "example": "כְּבוֹד יְהוָה מָלֵא אֶת־הַמִּשְׁכָּן",
+      "exampleMeaning": "여호와의 영광이 성막에 충만하매 (출 40:34)"
+    },
+    {
+      "word": "כַּפַּר",
+      "pronunciation": "카파르",
+      "meaning": "[동]속죄하다",
+      "example": "וְכִפֶּר בַּעֲדוֹ וּבְעַד בֵּיתוֹ",
+      "exampleMeaning": "자기와 자기의 집안을 위하여 속죄하고 (레 16:6)"
+    },
+    {
+      "word": "לֵוִי",
+      "pronunciation": "레비",
+      "meaning": "[명]레위",
+      "example": "וַתִּקְרָא אֶת־שְׁמוֹ לֵוִי",
+      "exampleMeaning": "그의 이름을 레위라 하였으니 (창 29:34)"
+    },
+    {
+      "word": "מַלְאָךְ",
+      "pronunciation": "말아크",
+      "meaning": "[명]천사",
+      "example": "וַיִּקְרָא מַלְאַךְ יְהוָה",
+      "exampleMeaning": "여호와의 사자가 부르되 (창 22:11)"
+    },
+    {
+      "word": "מַיִם",
+      "pronunciation": "마임",
+      "meaning": "[명]물",
+      "example": "וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם",
+      "exampleMeaning": "하나님의 영은 수면 위에 운행하시니라 (창 1:2)"
+    },
+    {
+      "word": "מִקְדָּשׁ",
+      "pronunciation": "미크다쉬",
+      "meaning": "[명]성소",
+      "example": "וְעָשׂוּ לִי מִקְדָּשׁ",
+      "exampleMeaning": "내가 그들 중에 거할 성소를 그들이 나를 위하여 짓되 (출 25:8)"
+    },
+    {
+      "word": "מִצְוָה",
+      "pronunciation": "미츠바",
+      "meaning": "[명]계명",
+      "example": "וְשָׁמַרְתָּ אֶת־מִצְוֹת יְהוָה אֱלֹהֶיךָ",
+      "exampleMeaning": "네 하나님 여호와의 명령을 지켜 (신 8:6)"
+    },
+    {
+      "word": "נַעַר",
+      "pronunciation": "나아르",
+      "meaning": "[명]소년",
+      "example": "וְהַנַּעַר שְׁמוּאֵל הֹלֵךְ וְגָדֵל",
+      "exampleMeaning": "아이 사무엘이 점점 자라매 (삼상 2:26)"
+    },
+    {
+      "word": "נָשָׂא",
+      "pronunciation": "나사",
+      "meaning": "[동]들어올리다",
+      "example": "אֶשָּׂא עֵינַי אֶל־הֶהָרִים",
+      "exampleMeaning": "내가 산을 향하여 눈을 들리라 (시 121:1)"
+    },
+    {
+      "word": "סָלַח",
+      "pronunciation": "살라흐",
+      "meaning": "[동]용서하다",
+      "example": "וְסָלַחְתִּי לַעֲוֹנָם",
+      "exampleMeaning": "내가 그들의 악을 사하고 (렘 31:34)"
+    },
+    {
+      "word": "עֵד",
+      "pronunciation": "에드",
+      "meaning": "[명]증인",
+      "example": "אַתֶּם עֵדַי נְאֻם־יְהוָה",
+      "exampleMeaning": "나 여호와가 말하노라 너희는 나의 증인이요 (사 43:10)"
+    },
+    {
+      "word": "עֵץ",
+      "pronunciation": "에츠",
+      "meaning": "[명]나무",
+      "example": "וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן",
+      "exampleMeaning": "동산 가운데에는 생명 나무가 있고 (창 2:9)"
+    },
+    {
+      "word": "עָפָר",
+      "pronunciation": "아파르",
+      "meaning": "[명]흙, 먼지",
+      "example": "כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב",
+      "exampleMeaning": "너는 흙이니 흙으로 돌아갈 것이니라 (창 3:19)"
+    },
+    {
+      "word": "פָּדָה",
+      "pronunciation": "파다",
+      "meaning": "[동]구속하다",
+      "example": "פָּדִיתָה יְהוָה אוֹתִי אֵל אֱמֶת",
+      "exampleMeaning": "진리의 하나님 여호와여 나를 속량하셨나이다 (시 31:5)"
+    },
+    {
+      "word": "פֶּסַח",
+      "pronunciation": "페사흐",
+      "meaning": "[명]유월절",
+      "example": "וְהָיָה הַדָּם לָכֶם לְאֹת",
+      "exampleMeaning": "내가 그 피를 볼 때에 너희를 넘어가리니 (출 12:13)"
+    },
+    {
+      "word": "צָדִיק",
+      "pronunciation": "차디크",
+      "meaning": "[형]의로운",
+      "example": "צַדִּיק יְהוָה בְּכָל־דְּרָכָיו",
+      "exampleMeaning": "여호와께서는 그 모든 행위에 의로우시며 (시 145:17)"
+    },
+    {
+      "word": "קָטָן",
+      "pronunciation": "카탄",
+      "meaning": "[형]작은",
+      "example": "מִקָּטֹן וְעַד־גָּדוֹל",
+      "exampleMeaning": "작은 자로부터 큰 자까지 (렘 31:34)"
+    },
+    {
+      "word": "רֵעַ",
+      "pronunciation": "레아",
+      "meaning": "[명]친구, 이웃",
+      "example": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ",
+      "exampleMeaning": "네 이웃 사랑하기를 네 자신과 같이 사랑하라 (레 19:18)"
+    },
+    {
+      "word": "שַׁבָּת",
+      "pronunciation": "샤바트",
+      "meaning": "[명]안식일",
+      "example": "זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ",
+      "exampleMeaning": "안식일을 기억하여 거룩하게 지키라 (출 20:8)"
+    },
+    {
+      "word": "שָׂטָן",
+      "pronunciation": "사탄",
+      "meaning": "[명]사탄",
+      "example": "וַיֹּאמֶר יְהוָה אֶל־הַשָּׂטָן",
+      "exampleMeaning": "여호와께서 사탄에게 이르시되 (욥 1:7)"
+    },
+    {
+      "word": "שֶׁמֶשׁ",
+      "pronunciation": "셰메쉬",
+      "meaning": "[명]태양",
+      "example": "וְזָרְחָה לָכֶם שֶׁמֶשׁ צְדָקָה",
+      "exampleMeaning": "내 이름을 경외하는 너희에게는 공의로운 해가 떠올라서 (말 4:2)"
+    },
+    {
+      "word": "תְּהִלָּה",
+      "pronunciation": "테힐라",
+      "meaning": "[명]찬양",
+      "example": "אַתָּה תְהִלָּתִי",
+      "exampleMeaning": "주는 나의 찬송이시요 (렘 17:14)"
+    },
+    {
+      "word": "תְּפִלָּה",
+      "pronunciation": "테필라",
+      "meaning": "[명]기도",
+      "example": "בֵּיתִי בֵּית־תְּפִלָּה יִקָּרֵא לְכָל־הָעַמִּים",
+      "exampleMeaning": "내 집은 만민이 기도하는 집이라 일컬음이 될 것임이라 (사 56:7)"
+    },
+    {
+      "word": "אָח",
+      "pronunciation": "아흐",
+      "meaning": "[명]형제",
+      "example": "הֲשֹׁמֵר אָחִי אָנֹכִי",
+      "exampleMeaning": "내가 내 아우를 지키는 자니이까 (창 4:9)"
+    },
+    {
+      "word": "אִישׁ",
+      "pronunciation": "이쉬",
+      "meaning": "[명]남자, 사람",
+      "example": "לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ",
+      "exampleMeaning": "사람이 혼자 사는 것이 좋지 아니하니 (창 2:18)"
+    },
+    {
+      "word": "אִשָּׁה",
+      "pronunciation": "이샤",
+      "meaning": "[명]여자",
+      "example": "זֹאת יִקָּרֵא אִשָּׁה כִּי מֵאִישׁ לֻקֳחָה־זֹּאת",
+      "exampleMeaning": "이는 남자에게서 취하였은즉 여자라 부르리라 (창 2:23)"
+    },
+    {
+      "word": "אֵם",
+      "pronunciation": "엠",
+      "meaning": "[명]어머니",
+      "example": "כַּבֵּד אֶת־אָבִיךָ וְאֶת־אִמֶּךָ",
+      "exampleMeaning": "네 아버지와 어머니를 공경하라 (출 20:12)"
+    },
+    {
+      "word": "אֵשׁ",
+      "pronunciation": "에쉬",
+      "meaning": "[명]불",
+      "example": "וְהַסְּנֶה בֹּעֵר בָּאֵשׁ",
+      "exampleMeaning": "떨기나무에 불이 붙었으나 (출 3:2)"
+    },
+    {
+      "word": "בָּנָה",
+      "pronunciation": "바나",
+      "meaning": "[동]건축하다",
+      "example": "וַיִּבֶן יְהוָה אֱלֹהִים אֶת־הַצֵּלָע",
+      "exampleMeaning": "여호와 하나님이 그 갈빗대로 여자를 만드시고 (창 2:22)"
+    },
+    {
+      "word": "בּוֹא",
+      "pronunciation": "보",
+      "meaning": "[동]오다",
+      "example": "בָּרוּךְ הַבָּא בְּשֵׁם יְהוָה",
+      "exampleMeaning": "여호와의 이름으로 오시는 이여 찬송하리로다 (시 118:26)"
+    },
+    {
+      "word": "בָּחַר",
+      "pronunciation": "바하르",
+      "meaning": "[동]선택하다",
+      "example": "בְּךָ בָחַר יְהוָה אֱלֹהֶיךָ",
+      "exampleMeaning": "네 하나님 여호와께서 너를 택하사 (신 7:6)"
+    },
+    {
+      "word": "בָּטַח",
+      "pronunciation": "바타흐",
+      "meaning": "[동]신뢰하다",
+      "example": "בִּטְחוּ בַיהוָה עֲדֵי־עַד",
+      "exampleMeaning": "너희는 영원히 여호와를 의뢰하라 (사 26:4)"
+    },
+    {
+      "word": "גָּאַל",
+      "pronunciation": "가알",
+      "meaning": "[동]구속하다",
+      "example": "גָּאַלְתָּ בְחַסְדְּךָ עַם־זוּ",
+      "exampleMeaning": "주의 인자하심으로 구속하신 백성을 (출 15:13)"
+    },
+    {
+      "word": "גִּבּוֹר",
+      "pronunciation": "기보르",
+      "meaning": "[명]용사",
+      "example": "יְהוָה גִּבּוֹר מִלְחָמָה",
+      "exampleMeaning": "여호와는 용사시니 (출 15:3)"
+    },
+    {
+      "word": "דָּם",
+      "pronunciation": "담",
+      "meaning": "[명]피",
+      "example": "כִּי נֶפֶשׁ הַבָּשָׂר בַּדָּם הִוא",
+      "exampleMeaning": "육체의 생명은 피에 있음이라 (레 17:11)"
+    },
+    {
+      "word": "הָר",
+      "pronunciation": "하르",
+      "meaning": "[명]산",
+      "example": "הַר־יְהוָה",
+      "exampleMeaning": "여호와의 산 (시 24:3)"
+    },
+    {
+      "word": "וָו",
+      "pronunciation": "바브",
+      "meaning": "[명]갈고리",
+      "example": "וָוֵי הָעַמֻּדִים",
+      "exampleMeaning": "기둥 갈고리들 (출 27:10)"
+    },
+    {
+      "word": "זָהָב",
+      "pronunciation": "자하브",
+      "meaning": "[명]금",
+      "example": "וְהָאָרֶץ הַהִוא טוֹבָה שָׁם הַזָּהָב",
+      "exampleMeaning": "그 땅의 금은 좋고 (창 2:11)"
+    },
+    {
+      "word": "זֶבַח",
+      "pronunciation": "제바흐",
+      "meaning": "[명]제사",
+      "example": "זִבְחֵי אֱלֹהִים רוּחַ נִשְׁבָּרָה",
+      "exampleMeaning": "하나님께서 구하시는 제사는 상한 심령이라 (시 51:17)"
+    },
+    {
+      "word": "חָזַק",
+      "pronunciation": "하자크",
+      "meaning": "[동]강하다",
+      "example": "חֲזַק וֶאֱמָץ",
+      "exampleMeaning": "강하고 담대하라 (수 1:6)"
+    },
+    {
+      "word": "חָלַל",
+      "pronunciation": "할랄",
+      "meaning": "[동]시작하다",
+      "example": "וַיָּחֶל נֹחַ אִישׁ הָאֲדָמָה",
+      "exampleMeaning": "노아가 농업을 시작하여 (창 9:20)"
+    },
+    {
+      "word": "חֵן",
+      "pronunciation": "헨",
+      "meaning": "[명]은혜",
+      "example": "מָצָאתִי חֵן בְּעֵינֶיךָ",
+      "exampleMeaning": "내가 주께 은혜를 입었사오면 (출 33:13)"
+    },
+    {
+      "word": "חָרָה",
+      "pronunciation": "하라",
+      "meaning": "[동]노하다",
+      "example": "וַיִּחַר־אַף יְהוָה",
+      "exampleMeaning": "여호와께서 진노하사 (민 11:1)"
+    },
+    {
+      "word": "טָהוֹר",
+      "pronunciation": "타호르",
+      "meaning": "[형]정결한",
+      "example": "לֵב טָהוֹר בְּרָא־לִי אֱלֹהִים",
+      "exampleMeaning": "하나님이여 내 속에 정한 마음을 창조하시고 (시 51:10)"
+    },
+    {
+      "word": "טָמֵא",
+      "pronunciation": "타메",
+      "meaning": "[형]부정한",
+      "example": "בֵּין הַטָּמֵא וּבֵין הַטָּהֹר",
+      "exampleMeaning": "부정한 것과 정한 것을 분별하며 (레 11:47)"
+    },
+    {
+      "word": "יָבֵשׁ",
+      "pronunciation": "야베쉬",
+      "meaning": "[형]마른",
+      "example": "וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ",
+      "exampleMeaning": "하나님이 뭍을 땅이라 부르시고 (창 1:10)"
+    },
+    {
+      "word": "יָגַע",
+      "pronunciation": "야가",
+      "meaning": "[동]수고하다",
+      "example": "יְגִיעַ כַּפֶּיךָ כִּי תֹאכֵל",
+      "exampleMeaning": "네가 네 손이 수고한 대로 먹을 것이라 (시 128:2)"
+    },
+    {
+      "word": "יָדַע",
+      "pronunciation": "야다",
+      "meaning": "[동]알다",
+      "example": "וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתּוֹ",
+      "exampleMeaning": "아담이 그의 아내 하와와 동침하매 (창 4:1)"
+    },
+    {
+      "word": "יָכֹל",
+      "pronunciation": "야콜",
+      "meaning": "[동]할 수 있다",
+      "example": "הֲיִפָּלֵא מֵיְהוָה דָּבָר",
+      "exampleMeaning": "여호와께 불가능한 일이 있겠느냐 (창 18:14)"
+    },
+    {
+      "word": "יָסַף",
+      "pronunciation": "야사프",
+      "meaning": "[동]더하다",
+      "example": "יֹסֵף יְהוָה לִי בֵּן אַחֵר",
+      "exampleMeaning": "여호와께서 다시 다른 아들을 내게 더하시기를 원하노라 (창 30:24)"
+    },
+    {
+      "word": "יָעַץ",
+      "pronunciation": "야아츠",
+      "meaning": "[동]조언하다",
+      "example": "כִּי יוֹעֵץ יִוָּלֵד לָנוּ",
+      "exampleMeaning": "한 아기가 우리에게 났고 (사 9:6)"
+    },
+    {
+      "word": "יָפֶה",
+      "pronunciation": "야페",
+      "meaning": "[형]아름다운",
+      "example": "יְפַת־תֹּאַר וִיפַת מַרְאֶה",
+      "exampleMeaning": "용모가 아름답고 보기에도 좋은지라 (창 29:17)"
+    },
+    {
+      "word": "יָצָא",
+      "pronunciation": "야차",
+      "meaning": "[동]나가다",
+      "example": "וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע",
+      "exampleMeaning": "야곱이 브엘세바에서 떠나 (창 28:10)"
+    },
+    {
+      "word": "יָרַד",
+      "pronunciation": "야라드",
+      "meaning": "[동]내려가다",
+      "example": "וַיֵּרֶד יְהוָה לִרְאֹת",
+      "exampleMeaning": "여호와께서 내려와 보시고 (창 11:5)"
+    },
+    {
+      "word": "יָרַשׁ",
+      "pronunciation": "야라쉬",
+      "meaning": "[동]상속하다",
+      "example": "לְזַרְעֲךָ נָתַתִּי אֶת־הָאָרֶץ הַזֹּאת",
+      "exampleMeaning": "내가 이 땅을 네 자손에게 주노라 (창 15:18)"
+    },
+    {
+      "word": "יֵשׁ",
+      "pronunciation": "예쉬",
+      "meaning": "[부]있다",
+      "example": "הֲיֵשׁ־יְהוָה בְּקִרְבֵּנוּ אִם־אָיִן",
+      "exampleMeaning": "여호와께서 우리 중에 계신가 안 계신가 (출 17:7)"
+    },
+    {
+      "word": "כֹּחַ",
+      "pronunciation": "코아흐",
+      "meaning": "[명]힘",
+      "example": "יְהוָה עֻזִּי וּמָגִנִּי",
+      "exampleMeaning": "여호와는 나의 힘과 나의 방패이시니 (시 28:7)"
+    },
+    {
+      "word": "כּוֹכָב",
+      "pronunciation": "코카브",
+      "meaning": "[명]별",
+      "example": "וְהַכּוֹכָבִים אֲשֶׁר נָתַתָּה",
+      "exampleMeaning": "주께서 두신 별들을 (시 8:3)"
+    },
+    {
+      "word": "כָּלָה",
+      "pronunciation": "칼라",
+      "meaning": "[동]마치다",
+      "example": "וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי",
+      "exampleMeaning": "하나님이 일곱째 날에 마치시니 (창 2:2)"
+    },
+    {
+      "word": "כֵּן",
+      "pronunciation": "켄",
+      "meaning": "[부]그렇다",
+      "example": "וַיְהִי־כֵן",
+      "exampleMeaning": "그대로 되니라 (창 1:7)"
+    },
+    {
+      "word": "כֶּסֶף",
+      "pronunciation": "케세프",
+      "meaning": "[명]은",
+      "example": "טוֹב שְׁמִי מִכֶּסֶף רָב",
+      "exampleMeaning": "많은 재물보다 명예를 택할 것이요 (잠 22:1)"
+    },
+    {
+      "word": "כָּתַב",
+      "pronunciation": "카타브",
+      "meaning": "[동]쓰다",
+      "example": "וַיִּכְתֹּב מֹשֶׁה אֶת־הַתּוֹרָה הַזֹּאת",
+      "exampleMeaning": "모세가 이 율법을 써서 (신 31:9)"
+    },
+    {
+      "word": "לֶחֶם",
+      "pronunciation": "레헴",
+      "meaning": "[명]빵",
+      "example": "לֹא עַל־הַלֶּחֶם לְבַדּוֹ יִחְיֶה הָאָדָם",
+      "exampleMeaning": "사람이 떡으로만 살 것이 아니요 (신 8:3)"
+    },
+    {
+      "word": "לַיְלָה",
+      "pronunciation": "라일라",
+      "meaning": "[명]밤",
+      "example": "וְלַיְלָה קָרָא חֹשֶׁךְ",
+      "exampleMeaning": "어둠을 밤이라 부르시니라 (창 1:5)"
+    },
+    {
+      "word": "לָמָּה",
+      "pronunciation": "라마",
+      "meaning": "[부]왜",
+      "example": "לָמָה עֲזַבְתָּנִי",
+      "exampleMeaning": "어찌하여 나를 버리셨나이까 (시 22:1)"
+    },
+    {
+      "word": "מָאָה",
+      "pronunciation": "메아",
+      "meaning": "[수]백",
+      "example": "וַיְהִי אַבְרָם בֶּן־תִּשְׁעִים שָׁנָה וְתֵשַׁע שָׁנִים",
+      "exampleMeaning": "아브람이 구십구 세 때에 (창 17:1)"
+    },
+    {
+      "word": "מְאֹד",
+      "pronunciation": "므오드",
+      "meaning": "[부]매우",
+      "example": "וְהִנֵּה־טוֹב מְאֹד",
+      "exampleMeaning": "보시기에 심히 좋았더라 (창 1:31)"
+    },
+    {
+      "word": "מָה",
+      "pronunciation": "마",
+      "meaning": "[대]무엇",
+      "example": "מַה־טֹּבוּ אֹהָלֶיךָ יַעֲקֹב",
+      "exampleMeaning": "야곱이여 네 장막들이 어찌 그리 아름다운지 (민 24:5)"
+    },
+    {
+      "word": "מוֹעֵד",
+      "pronunciation": "모에드",
+      "meaning": "[명]절기",
+      "example": "אֵלֶּה מוֹעֲדֵי יְהוָה",
+      "exampleMeaning": "이것이 여호와의 절기들이니 (레 23:4)"
+    },
+    {
+      "word": "מוּת",
+      "pronunciation": "무트",
+      "meaning": "[동]죽다",
+      "example": "מוֹת תָּמוּת",
+      "exampleMeaning": "반드시 죽으리라 (창 2:17)"
+    },
+    {
+      "word": "מִזְבֵּחַ",
+      "pronunciation": "미즈베아흐",
+      "meaning": "[명]제단",
+      "example": "וַיִּבֶן שָׁם מִזְבֵּחַ לַיהוָה",
+      "exampleMeaning": "거기서 여호와께 제단을 쌓고 (창 12:7)"
+    },
+    {
+      "word": "מָחָה",
+      "pronunciation": "마하",
+      "meaning": "[동]지우다",
+      "example": "אֶמְחֶה אֶת־הָאָדָם",
+      "exampleMeaning": "내가 사람을 지면에서 쓸어버리되 (창 6:7)"
+    },
+    {
+      "word": "מִי",
+      "pronunciation": "미",
+      "meaning": "[대]누가",
+      "example": "מִי־הָאִישׁ הַיָּרֵא",
+      "exampleMeaning": "두려워하는 자가 누구냐 (신 20:8)"
+    },
+    {
+      "word": "מָלֵא",
+      "pronunciation": "말레",
+      "meaning": "[동]채우다",
+      "example": "וּמִלְאוּ אֶת־הָאָרֶץ",
+      "exampleMeaning": "땅에 충만하라 (창 1:28)"
+    },
+    {
+      "word": "מַמְלָכָה",
+      "pronunciation": "맘라카",
+      "meaning": "[명]왕국",
+      "example": "וְאַתֶּם תִּהְיוּ־לִי מַמְלֶכֶת כֹּהֲנִים",
+      "exampleMeaning": "너희가 내게 대하여 제사장 나라가 되며 (출 19:6)"
+    },
+    {
+      "word": "מִן",
+      "pronunciation": "민",
+      "meaning": "[전]~로부터",
+      "example": "מִן־הָאֲדָמָה",
+      "exampleMeaning": "땅으로부터 (창 4:10)"
+    },
+    {
+      "word": "מָצָא",
+      "pronunciation": "마차",
+      "meaning": "[동]찾다",
+      "example": "מָצָאתָ חֵן בְּעֵינָי",
+      "exampleMeaning": "네가 내 눈에 은총을 입었고 (출 33:17)"
+    },
+    {
+      "word": "מָקוֹם",
+      "pronunciation": "마콤",
+      "meaning": "[명]장소",
+      "example": "הַמָּקוֹם אֲשֶׁר־אַתָּה עוֹמֵד עָלָיו",
+      "exampleMeaning": "네가 선 곳은 (출 3:5)"
+    },
+    {
+      "word": "מִשְׁכָּן",
+      "pronunciation": "미쉬칸",
+      "meaning": "[명]성막",
+      "example": "וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם",
+      "exampleMeaning": "내가 그들 중에 거할 성소를 그들이 나를 위하여 짓되 (출 25:8)"
+    },
+    {
+      "word": "נָגַע",
+      "pronunciation": "나가",
+      "meaning": "[동]만지다",
+      "example": "אַל־תִּגְּעוּ בִמְשִׁיחָי",
+      "exampleMeaning": "나의 기름 부은 자를 만지지 말며 (시 105:15)"
+    },
+    {
+      "word": "נָהָר",
+      "pronunciation": "나하르",
+      "meaning": "[명]강",
+      "example": "וְנָהָר יֹצֵא מֵעֵדֶן",
+      "exampleMeaning": "강이 에덴에서 흘러 나와 (창 2:10)"
+    },
+    {
+      "word": "נוּחַ",
+      "pronunciation": "누아흐",
+      "meaning": "[동]쉬다",
+      "example": "וַיָּנַח בַּיּוֹם הַשְּׁבִיעִי",
+      "exampleMeaning": "일곱째 날에 안식하시니라 (출 20:11)"
+    },
+    {
+      "word": "נָכְרִי",
+      "pronunciation": "노크리",
+      "meaning": "[명]외국인",
+      "example": "וְגַם אֶל־הַנָּכְרִי",
+      "exampleMeaning": "또 이방인에게도 (왕상 8:43)"
+    },
+    {
+      "word": "נָסַע",
+      "pronunciation": "나사",
+      "meaning": "[동]여행하다",
+      "example": "וַיִּסְעוּ בְנֵי־יִשְׂרָאֵל",
+      "exampleMeaning": "이스라엘 자손이 떠나서 (출 12:37)"
+    },
+    {
+      "word": "נָעַם",
+      "pronunciation": "나암",
+      "meaning": "[동]즐겁다",
+      "example": "מַה־נָּעֲמוּ דֹדֶיךָ מִיַּיִן",
+      "exampleMeaning": "네 사랑이 포도주보다 얼마나 아름다운지 (아 4:10)"
+    },
+    {
+      "word": "נָפַל",
+      "pronunciation": "나팔",
+      "meaning": "[동]떨어지다",
+      "example": "וַיִּפֹּל עַל־פָּנָיו",
+      "exampleMeaning": "그가 엎드려 (창 17:3)"
+    },
+    {
+      "word": "נָצַל",
+      "pronunciation": "나찰",
+      "meaning": "[동]구하다",
+      "example": "הַצִּילֵנִי נָא מִיַּד אָחִי",
+      "exampleMeaning": "내 형의 손에서 나를 건져내시옵소서 (창 32:11)"
+    },
+    {
+      "word": "סָבִיב",
+      "pronunciation": "사비브",
+      "meaning": "[부]주위에",
+      "example": "סָבִיב לַמִּשְׁכָּן",
+      "exampleMeaning": "성막 주위에 (민 1:50)"
+    },
+    {
+      "word": "סוּס",
+      "pronunciation": "수스",
+      "meaning": "[명]말",
+      "example": "סוּס מוּכָן לְיוֹם מִלְחָמָה",
+      "exampleMeaning": "싸울 날을 위하여 마병을 예비하거니와 (잠 21:31)"
+    },
+    {
+      "word": "סָפַר",
+      "pronunciation": "사파르",
+      "meaning": "[동]세다, 말하다",
+      "example": "מִי יְסַפֵּר עֲפַר יַעֲקֹב",
+      "exampleMeaning": "야곱의 티끌을 누가 능히 세며 (민 23:10)"
+    },
+    {
+      "word": "עֶבֶד",
+      "pronunciation": "에베드",
+      "meaning": "[명]종",
+      "example": "עַבְדִּי דָוִד",
+      "exampleMeaning": "내 종 다윗 (시 89:20)"
+    },
+    {
+      "word": "עֲבוֹדָה",
+      "pronunciation": "아보다",
+      "meaning": "[명]일, 예배",
+      "example": "וַעֲבַדְתֶּם אֶת־יְהוָה אֱלֹהֵיכֶם",
+      "exampleMeaning": "네 하나님 여호와를 섬기라 (출 23:25)"
+    },
+    {
+      "word": "עָוֹן",
+      "pronunciation": "아본",
+      "meaning": "[명]죄",
+      "example": "נֹשֵׂא עָוֹן וָפֶשַׁע",
+      "exampleMeaning": "죄악과 허물을 사하시는 (출 34:7)"
+    },
+    {
+      "word": "עוֹד",
+      "pronunciation": "오드",
+      "meaning": "[부]아직, 더",
+      "example": "אֵין עוֹד מִלְּבַדּוֹ",
+      "exampleMeaning": "그 외에는 다른 신이 없느니라 (신 4:35)"
+    },
+    {
+      "word": "עָזַב",
+      "pronunciation": "아자브",
+      "meaning": "[동]떠나다",
+      "example": "לֹא אֶעֱזָבְךָ",
+      "exampleMeaning": "내가 너를 떠나지 아니하리라 (창 28:15)"
+    },
+    {
+      "word": "עָזַר",
+      "pronunciation": "아자르",
+      "meaning": "[동]돕다",
+      "example": "עֶזְרִי מֵעִם יְהוָה",
+      "exampleMeaning": "나의 도움이 여호와에게서로다 (시 121:2)"
+    },
+    {
+      "word": "עִיר",
+      "pronunciation": "이르",
+      "meaning": "[명]도시",
+      "example": "וַיִּבֶן עִיר",
+      "exampleMeaning": "한 성읍을 건설하고 (창 4:17)"
+    },
+    {
+      "word": "עָלָה",
+      "pronunciation": "알라",
+      "meaning": "[동]올라가다",
+      "example": "וַיַּעַל אֱלֹהִים מֵעַל אַבְרָהָם",
+      "exampleMeaning": "하나님이 아브라함을 떠나 올라가시니라 (창 17:22)"
+    },
+    {
+      "word": "עִם",
+      "pronunciation": "임",
+      "meaning": "[전]~와 함께",
+      "example": "וְהָיָה אֱלֹהִים עִמָּךְ",
+      "exampleMeaning": "하나님이 너와 함께 계실지라 (창 48:21)"
+    },
+    {
+      "word": "עָמַד",
+      "pronunciation": "아마드",
+      "meaning": "[동]서다",
+      "example": "וַיַּעַמְדוּ מֵרָחֹק",
+      "exampleMeaning": "멀리 서서 (출 20:18)"
+    },
+    {
+      "word": "פֶּה",
+      "pronunciation": "페",
+      "meaning": "[명]입",
+      "example": "פֶּה אֶל־פֶּה אֲדַבֶּר־בּוֹ",
+      "exampleMeaning": "그와는 내가 대면하여 말하고 (민 12:8)"
+    },
+    {
+      "word": "פָּקַד",
+      "pronunciation": "파카드",
+      "meaning": "[동]방문하다",
+      "example": "פָּקֹד יִפְקֹד אֱלֹהִים אֶתְכֶם",
+      "exampleMeaning": "하나님이 반드시 너희를 돌보시리라 (창 50:24)"
+    },
+    {
+      "word": "פָּתַח",
+      "pronunciation": "파타흐",
+      "meaning": "[동]열다",
+      "example": "פֹּתֵחַ אֶת־יָדֶךָ",
+      "exampleMeaning": "주께서 손을 펴사 (시 145:16)"
+    },
+    {
+      "word": "צֹאן",
+      "pronunciation": "촌",
+      "meaning": "[명]양",
+      "example": "כְּצֹאן לַטְּבָחָה",
+      "exampleMeaning": "도수장으로 끌려가는 양 같이 (사 53:7)"
+    },
+    {
+      "word": "צוּר",
+      "pronunciation": "추르",
+      "meaning": "[명]바위",
+      "example": "יְהוָה צוּרִי",
+      "exampleMeaning": "나의 반석이신 여호와여 (시 18:2)"
+    },
+    {
+      "word": "צִיּוֹן",
+      "pronunciation": "치욘",
+      "meaning": "[명]시온",
+      "example": "כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה",
+      "exampleMeaning": "율법이 시온에서부터 나올 것이요 (사 2:3)"
+    },
+    {
+      "word": "צָעַק",
+      "pronunciation": "차아크",
+      "meaning": "[동]부르짖다",
+      "example": "וַיִּצְעֲקוּ אֶל־יְהוָה",
+      "exampleMeaning": "여호와께 부르짖으매 (출 14:10)"
+    },
+    {
+      "word": "צָרָה",
+      "pronunciation": "차라",
+      "meaning": "[명]고난",
+      "example": "בְּיוֹם צָרָתִי אֶקְרָא",
+      "exampleMeaning": "환난 날에 내가 주께 부르짖으리니 (시 86:7)"
+    },
+    {
+      "word": "קָבַץ",
+      "pronunciation": "카바츠",
+      "meaning": "[동]모으다",
+      "example": "וְקִבַּצְתִּי אֶתְכֶם מִן־הָעַמִּים",
+      "exampleMeaning": "너희를 여러 나라에서 모아 (겔 36:24)"
+    },
+    {
+      "word": "קֶדֶם",
+      "pronunciation": "케뎀",
+      "meaning": "[명]동쪽, 옛날",
+      "example": "מִקֶּדֶם",
+      "exampleMeaning": "옛날부터 (시 74:12)"
+    },
+    {
+      "word": "קוּם",
+      "pronunciation": "쿰",
+      "meaning": "[동]일어나다",
+      "example": "קוּם לֵךְ",
+      "exampleMeaning": "일어나 가라 (창 27:43)"
+    },
+    {
+      "word": "קָרַב",
+      "pronunciation": "카라브",
+      "meaning": "[동]가까이 오다",
+      "example": "וְהִקְרַבְתֶּם אֹתוֹ",
+      "exampleMeaning": "그를 가까이 나아오게 하라 (민 16:17)"
+    },
+    {
+      "word": "קֶרֶב",
+      "pronunciation": "케레브",
+      "meaning": "[명]가운데",
+      "example": "בְּקֶרֶב הָאָרֶץ",
+      "exampleMeaning": "땅 가운데서 (출 8:22)"
+    },
+    {
+      "word": "קֶשֶׁת",
+      "pronunciation": "케셰트",
+      "meaning": "[명]활",
+      "example": "קַשְׁתִּי נָתַתִּי בֶעָנָן",
+      "exampleMeaning": "내가 구름 속에 무지개를 두었나니 (창 9:13)"
+    },
+    {
+      "word": "רַב",
+      "pronunciation": "라브",
+      "meaning": "[형]많은",
+      "example": "עַם־רָב",
+      "exampleMeaning": "많은 백성 (출 12:38)"
+    },
+    {
+      "word": "רֹאשׁ",
+      "pronunciation": "로쉬",
+      "meaning": "[명]머리",
+      "example": "מֵרֹאשׁ",
+      "exampleMeaning": "처음부터 (잠 8:23)"
+    },
+    {
+      "word": "רִאשׁוֹן",
+      "pronunciation": "리숀",
+      "meaning": "[형]첫째",
+      "example": "בַּיּוֹם הָרִאשׁוֹן",
+      "exampleMeaning": "첫날에 (창 1:5)"
+    },
+    {
+      "word": "רָגַז",
+      "pronunciation": "라가즈",
+      "meaning": "[동]떨다",
+      "example": "אַל־תִּרְגְּזוּ",
+      "exampleMeaning": "떨며 (시 4:4)"
+    },
+    {
+      "word": "רָדַף",
+      "pronunciation": "라다프",
+      "meaning": "[동]쫓다",
+      "example": "רִדְפוּ צֶדֶק",
+      "exampleMeaning": "의를 따르라 (신 16:20)"
+    },
+    {
+      "word": "רָחוֹק",
+      "pronunciation": "라호크",
+      "meaning": "[형]먼",
+      "example": "מֵרָחוֹק",
+      "exampleMeaning": "멀리서 (창 22:4)"
+    },
+    {
+      "word": "רָחַם",
+      "pronunciation": "라함",
+      "meaning": "[동]긍휼히 여기다",
+      "example": "וְרִחַמְתִּי אֶת־אֲשֶׁר אֲרַחֵם",
+      "exampleMeaning": "내가 긍휼히 여길 자를 긍휼히 여기고 (출 33:19)"
+    },
+    {
+      "word": "רַחֲמִים",
+      "pronunciation": "라하밈",
+      "meaning": "[명]긍휼",
+      "example": "רַחוּם וְחַנּוּן יְהוָה",
+      "exampleMeaning": "여호와는 긍휼이 많으시고 은혜로우시며 (시 103:8)"
+    },
+    {
+      "word": "רָנַן",
+      "pronunciation": "라난",
+      "meaning": "[동]기뻐 외치다",
+      "example": "רָנּוּ צַדִּיקִים בַּיהוָה",
+      "exampleMeaning": "의인들아 여호와를 즐거워하라 (시 33:1)"
+    },
+    {
+      "word": "רָע",
+      "pronunciation": "라",
+      "meaning": "[형]악한",
+      "example": "הַטּוֹב וְהָרָע",
+      "exampleMeaning": "선과 악 (창 2:17)"
+    },
+    {
+      "word": "רָעָה",
+      "pronunciation": "라아",
+      "meaning": "[명]악, 재앙",
+      "example": "לֹא־תִירָא מִפַּחַד לָיְלָה",
+      "exampleMeaning": "밤의 두려움을 무서워하지 말며 (시 91:5)"
+    },
+    {
+      "word": "רָצָה",
+      "pronunciation": "라차",
+      "meaning": "[동]기뻐하다",
+      "example": "יִרְצֶה יְהוָה",
+      "exampleMeaning": "여호와께서 기뻐하시리이다 (시 51:19)"
+    },
+    {
+      "word": "רָצוֹן",
+      "pronunciation": "라촌",
+      "meaning": "[명]기쁨",
+      "example": "עֵת רָצוֹן",
+      "exampleMeaning": "은혜의 때에 (시 69:13)"
+    },
+    {
+      "word": "שָׁאַל",
+      "pronunciation": "샤알",
+      "meaning": "[동]묻다",
+      "example": "שְׁאַל־נָא",
+      "exampleMeaning": "청하건대 물어보라 (창 32:29)"
+    },
+    {
+      "word": "שָׁב",
+      "pronunciation": "샤브",
+      "meaning": "[동]돌아오다",
+      "example": "שׁוּב אֵלַי",
+      "exampleMeaning": "내게로 돌아오라 (말 3:7)"
+    },
+    {
+      "word": "שִׂמְחָה",
+      "pronunciation": "심하",
+      "meaning": "[명]기쁨",
+      "example": "עִבְדוּ אֶת־יְהוָה בְּשִׂמְחָה",
+      "exampleMeaning": "기쁨으로 여호와를 섬기며 (시 100:2)"
+    },
+    {
+      "word": "שָׁנָה",
+      "pronunciation": "샤나",
+      "meaning": "[명]년",
+      "example": "מֵאָה שָׁנָה",
+      "exampleMeaning": "백 년 (창 17:17)"
+    },
+    {
+      "word": "שָׁעַר",
+      "pronunciation": "샤아르",
+      "meaning": "[명]문",
+      "example": "שַׁעֲרֵי צֶדֶק",
+      "exampleMeaning": "의의 문들 (시 118:19)"
+    },
+    {
+      "word": "שָׁפַט",
+      "pronunciation": "샤파트",
+      "meaning": "[동]심판하다",
+      "example": "הֲשֹׁפֵט כָּל־הָאָרֶץ לֹא יַעֲשֶׂה מִשְׁפָּט",
+      "exampleMeaning": "온 땅의 심판자가 정의를 행하지 않으시리이까 (창 18:25)"
+    },
+    {
+      "word": "שָׁקַר",
+      "pronunciation": "샤카르",
+      "meaning": "[동]거짓말하다",
+      "example": "לֹא תִשָּׁבְעוּ בִשְׁמִי לַשָּׁקֶר",
+      "exampleMeaning": "내 이름으로 거짓 맹세하지 말라 (레 19:12)"
+    },
+    {
+      "word": "תָּמִיד",
+      "pronunciation": "타미드",
+      "meaning": "[부]항상",
+      "example": "לְפָנַי תָמִיד",
+      "exampleMeaning": "항상 내 앞에 (출 28:29)"
+    },
+    {
+      "word": "תְּשׁוּבָה",
+      "pronunciation": "테슈바",
+      "meaning": "[명]회개",
+      "example": "שׁוּבָה יִשְׂרָאֵל עַד יְהוָה אֱלֹהֶיךָ",
+      "exampleMeaning": "이스라엘아 네 하나님 여호와께로 돌아오라 (호 14:1)"
+    },
+    {
+      "word": "תִּקְוָה",
+      "pronunciation": "티크바",
+      "meaning": "[명]소망",
+      "example": "כִּי־יֵשׁ תִּקְוָה",
+      "exampleMeaning": "소망이 있으리라 (잠 23:18)"
+    }
+  ]
+}
