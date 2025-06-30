@@ -7,7 +7,7 @@
       "vocabularies": [
         {
           "id": "toeic_basic_1283",
-          "name": "TOEIC 기본 단어",
+          "name": "TOEIC 기본 영어단어",
           "description": "TOEIC 시험 준비를 위한 필수 단어 1283개",
           "wordCount": 1283,
           "difficulty": "중급",
@@ -24,7 +24,7 @@
       "vocabularies": [
         {
           "id": "elementary_words_830",
-          "name": "초등 영단어",
+          "name": "초등 영어단어",
           "description": "초등학생을 위한 기초 영단어 830개",
           "wordCount": 830,
           "price": 50,
@@ -34,7 +34,7 @@
         },
         {
           "id": "middle_school_1190",
-          "name": "중학 영단어",
+          "name": "중학 영어단어",
           "description": "중학교 교육과정 필수 영단어 1190개",
           "wordCount": 1190,
           "price": 50,
@@ -44,7 +44,7 @@
         },
         {
           "id": "high_school_1990",
-          "name": "수능 영단어",
+          "name": "수능 영어단어",
           "description": "수능 공부를 위한 고급 영단어 1990",
           "wordCount": 1990,
           "price": 100,
@@ -61,7 +61,7 @@
       "vocabularies": [
         {
           "id": "Hebrew_basic_210",
-          "name": "히브리어 기본단어",
+          "name": "기본 히브리어단어",
           "description": "성경에 자주 등장하는 히브리어와 성경예문 210개",
           "wordCount": 210,
           "difficulty": "초급",
